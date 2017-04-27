@@ -1,121 +1,121 @@
 <svg height="1886" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="1886" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-24 10:32:21 +0000  5058325 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-24 10:32:21 +0000      226 bytes  binding.gyp</tspan>
-<tspan x="10" y="58">  2.  2017-04-24 10:32:21 +0000    13198 bytes  build/Makefile</tspan>
-<tspan x="10" y="74">  3.  2017-04-24 10:32:21 +0000   452222 bytes  build/Release/hunspell.a</tspan>
-<tspan x="10" y="90">  4.  2017-04-24 10:32:21 +0000   426069 bytes  build/Release/nodehun.node</tspan>
-<tspan x="10" y="106">  5.  2017-04-24 10:32:21 +0000    28864 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
+<tspan x="10" y="26">  0.  2017-04-27 22:05:10 +0000  5058326 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-27 22:05:10 +0000      226 bytes  binding.gyp</tspan>
+<tspan x="10" y="58">  2.  2017-04-27 22:05:10 +0000    13198 bytes  build/Makefile</tspan>
+<tspan x="10" y="74">  3.  2017-04-27 22:05:10 +0000   452222 bytes  build/Release/hunspell.a</tspan>
+<tspan x="10" y="90">  4.  2017-04-27 22:05:10 +0000   426069 bytes  build/Release/nodehun.node</tspan>
+<tspan x="10" y="106">  5.  2017-04-27 22:05:10 +0000    28864 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
 <tspan x="10" y="122">rc/hunspell/affentry.o</tspan>
-<tspan x="10" y="138">  6.  2017-04-24 10:32:21 +0000    97024 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
+<tspan x="10" y="138">  6.  2017-04-27 22:05:10 +0000    97024 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
 <tspan x="10" y="154">rc/hunspell/affixmgr.o</tspan>
-<tspan x="10" y="170">  7.  2017-04-24 10:32:21 +0000   155464 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
+<tspan x="10" y="170">  7.  2017-04-27 22:05:10 +0000   155464 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
 <tspan x="10" y="186">rc/hunspell/csutil.o</tspan>
-<tspan x="10" y="202">  8.  2017-04-24 10:32:21 +0000     5056 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
+<tspan x="10" y="202">  8.  2017-04-27 22:05:10 +0000     5056 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
 <tspan x="10" y="218">rc/hunspell/dictmgr.o</tspan>
-<tspan x="10" y="234">  9.  2017-04-24 10:32:21 +0000     5760 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
+<tspan x="10" y="234">  9.  2017-04-27 22:05:10 +0000     5760 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
 <tspan x="10" y="250">rc/hunspell/filemgr.o</tspan>
-<tspan x="10" y="266"> 10.  2017-04-24 10:32:21 +0000    21264 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
+<tspan x="10" y="266"> 10.  2017-04-27 22:05:10 +0000    21264 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
 <tspan x="10" y="282">rc/hunspell/hashmgr.o</tspan>
-<tspan x="10" y="298"> 11.  2017-04-24 10:32:21 +0000    50208 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
+<tspan x="10" y="298"> 11.  2017-04-27 22:05:10 +0000    50208 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
 <tspan x="10" y="314">rc/hunspell/hunspell.o</tspan>
-<tspan x="10" y="330"> 12.  2017-04-24 10:32:21 +0000     6496 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
+<tspan x="10" y="330"> 12.  2017-04-27 22:05:10 +0000     6496 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
 <tspan x="10" y="346">rc/hunspell/hunzip.o</tspan>
-<tspan x="10" y="362"> 13.  2017-04-24 10:32:21 +0000     5272 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
+<tspan x="10" y="362"> 13.  2017-04-27 22:05:10 +0000     5272 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
 <tspan x="10" y="378">rc/hunspell/phonet.o</tspan>
-<tspan x="10" y="394"> 14.  2017-04-24 10:32:21 +0000     4000 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
+<tspan x="10" y="394"> 14.  2017-04-27 22:05:10 +0000     4000 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
 <tspan x="10" y="410">rc/hunspell/replist.o</tspan>
-<tspan x="10" y="426"> 15.  2017-04-24 10:32:21 +0000     6624 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
+<tspan x="10" y="426"> 15.  2017-04-27 22:05:10 +0000     6624 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
 <tspan x="10" y="442">rc/hunspell/strmgr.o</tspan>
-<tspan x="10" y="458"> 16.  2017-04-24 10:32:21 +0000    53488 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
+<tspan x="10" y="458"> 16.  2017-04-27 22:05:10 +0000    53488 bytes  build/Release/obj.target/hunspell/src/hunspell/s\</tspan>
 <tspan x="10" y="474">rc/hunspell/suggestmgr.o</tspan>
-<tspan x="10" y="490"> 17.  2017-04-24 10:32:21 +0000   426069 bytes  build/Release/obj.target/nodehun.node</tspan>
-<tspan x="10" y="506"> 18.  2017-04-24 10:32:21 +0000    69128 bytes  build/Release/obj.target/nodehun/src/nodehun.o</tspan>
-<tspan x="10" y="522"> 19.  2017-04-24 10:32:21 +0000   452222 bytes  build/Release/obj.target/src/hunspell/hunspell.a</tspan>
-<tspan x="10" y="538"> 20.  2017-04-24 10:32:21 +0000      115 bytes  build/binding.Makefile</tspan>
-<tspan x="10" y="554"> 21.  2017-04-24 10:32:21 +0000     4886 bytes  build/config.gypi</tspan>
-<tspan x="10" y="570"> 22.  2017-04-24 10:32:21 +0000     3697 bytes  build/nodehun.target.mk</tspan>
-<tspan x="10" y="586"> 23.  2017-04-24 10:32:21 +0000      138 bytes  build/src/hunspell/binding.Makefile</tspan>
-<tspan x="10" y="602"> 24.  2017-04-24 10:32:21 +0000     4416 bytes  build/src/hunspell/hunspell.target.mk</tspan>
-<tspan x="10" y="618"> 25.  2017-04-24 10:32:21 +0000     1277 bytes  examples/a_init.js</tspan>
-<tspan x="10" y="634"> 26.  2017-04-24 10:32:21 +0000     1268 bytes  examples/b_addDictionary.js</tspan>
-<tspan x="10" y="650"> 27.  2017-04-24 10:32:21 +0000     1171 bytes  examples/c_addWord.js</tspan>
-<tspan x="10" y="666"> 28.  2017-04-24 10:32:21 +0000     1131 bytes  examples/d_removeWord.js</tspan>
-<tspan x="10" y="682"> 29.  2017-04-24 10:32:21 +0000    12599 bytes  examples/dictionaries/README_en_CA.txt</tspan>
-<tspan x="10" y="698"> 30.  2017-04-24 10:32:21 +0000    12599 bytes  examples/dictionaries/README_en_US.txt</tspan>
-<tspan x="10" y="714"> 31.  2017-04-24 10:32:21 +0000    64428 bytes  examples/dictionaries/en_CA.aff</tspan>
-<tspan x="10" y="730"> 32.  2017-04-24 10:32:21 +0000   642481 bytes  examples/dictionaries/en_CA.dic</tspan>
-<tspan x="10" y="746"> 33.  2017-04-24 10:32:21 +0000    64145 bytes  examples/dictionaries/en_US.aff</tspan>
-<tspan x="10" y="762"> 34.  2017-04-24 10:32:21 +0000   641025 bytes  examples/dictionaries/en_US.dic</tspan>
-<tspan x="10" y="778"> 35.  2017-04-24 10:32:21 +0000      586 bytes  examples/dictionaries/readme.md</tspan>
-<tspan x="10" y="794"> 36.  2017-04-24 10:32:21 +0000      667 bytes  examples/e_lotsOfSuggestions.js</tspan>
-<tspan x="10" y="810"> 37.  2017-04-24 10:32:21 +0000      427 bytes  examples/f_stem.js</tspan>
-<tspan x="10" y="826"> 38.  2017-04-24 10:32:21 +0000      539 bytes  examples/g_asyncInvoke.js</tspan>
-<tspan x="10" y="842"> 39.  2017-04-24 10:32:21 +0000      793 bytes  examples/h_multipleWords.js</tspan>
-<tspan x="10" y="858"> 40.  2017-04-24 10:32:21 +0000      670 bytes  examples/i_generate.js</tspan>
-<tspan x="10" y="874"> 41.  2017-04-24 10:32:21 +0000      437 bytes  examples/j_analyze.js</tspan>
-<tspan x="10" y="890"> 42.  2017-04-24 10:32:21 +0000      629 bytes  examples/k_correct.js</tspan>
-<tspan x="10" y="906"> 43.  2017-04-24 10:32:21 +0000     1079 bytes  license.md</tspan>
-<tspan x="10" y="922"> 44.  2017-04-24 10:32:21 +0000     2553 bytes  package.json</tspan>
-<tspan x="10" y="938"> 45.  2017-04-24 10:32:21 +0000    11647 bytes  readme.md</tspan>
-<tspan x="10" y="954"> 46.  2017-04-24 10:32:21 +0000      177 bytes  src/hunspell/AUTHORS</tspan>
-<tspan x="10" y="970"> 47.  2017-04-24 10:32:21 +0000     2741 bytes  src/hunspell/AUTHORS.myspell</tspan>
-<tspan x="10" y="986"> 48.  2017-04-24 10:32:21 +0000      634 bytes  src/hunspell/COPYING</tspan>
-<tspan x="10" y="1002"> 49.  2017-04-24 10:32:21 +0000    26532 bytes  src/hunspell/COPYING.LGPL</tspan>
-<tspan x="10" y="1018"> 50.  2017-04-24 10:32:21 +0000    25755 bytes  src/hunspell/COPYING.MPL</tspan>
-<tspan x="10" y="1034"> 51.  2017-04-24 10:32:21 +0000     4955 bytes  src/hunspell/README.hunspell</tspan>
-<tspan x="10" y="1050"> 52.  2017-04-24 10:32:21 +0000     2119 bytes  src/hunspell/README.myspell</tspan>
-<tspan x="10" y="1066"> 53.  2017-04-24 10:32:21 +0000     2166 bytes  src/hunspell/binding.gyp</tspan>
-<tspan x="10" y="1082"> 54.  2017-04-24 10:32:21 +0000      926 bytes  src/hunspell/readme.md</tspan>
-<tspan x="10" y="1098"> 55.  2017-04-24 10:32:21 +0000      798 bytes  src/hunspell/src/hunspell/Makefile.am</tspan>
-<tspan x="10" y="1114"> 56.  2017-04-24 10:32:21 +0000    22268 bytes  src/hunspell/src/hunspell/Makefile.in</tspan>
-<tspan x="10" y="1130"> 57.  2017-04-24 10:32:21 +0000      929 bytes  src/hunspell/src/hunspell/README</tspan>
-<tspan x="10" y="1146"> 58.  2017-04-24 10:32:21 +0000    36844 bytes  src/hunspell/src/hunspell/affentry.cxx</tspan>
-<tspan x="10" y="1162"> 59.  2017-04-24 10:32:21 +0000     4495 bytes  src/hunspell/src/hunspell/affentry.hxx</tspan>
-<tspan x="10" y="1178"> 60.  2017-04-24 10:32:21 +0000   154531 bytes  src/hunspell/src/hunspell/affixmgr.cxx</tspan>
-<tspan x="10" y="1194"> 61.  2017-04-24 10:32:21 +0000    10508 bytes  src/hunspell/src/hunspell/affixmgr.hxx</tspan>
-<tspan x="10" y="1210"> 62.  2017-04-24 10:32:21 +0000     2093 bytes  src/hunspell/src/hunspell/atypes.hxx</tspan>
-<tspan x="10" y="1226"> 63.  2017-04-24 10:32:21 +0000      575 bytes  src/hunspell/src/hunspell/baseaffix.hxx</tspan>
-<tspan x="10" y="1242"> 64.  2017-04-24 10:32:21 +0000    12819 bytes  src/hunspell/src/hunspell/config.h</tspan>
-<tspan x="10" y="1258"> 65.  2017-04-24 10:32:21 +0000   134038 bytes  src/hunspell/src/hunspell/csutil.cxx</tspan>
-<tspan x="10" y="1274"> 66.  2017-04-24 10:32:21 +0000     7438 bytes  src/hunspell/src/hunspell/csutil.hxx</tspan>
-<tspan x="10" y="1290"> 67.  2017-04-24 10:32:21 +0000     4446 bytes  src/hunspell/src/hunspell/dictmgr.cxx</tspan>
-<tspan x="10" y="1306"> 68.  2017-04-24 10:32:21 +0000      633 bytes  src/hunspell/src/hunspell/dictmgr.hxx</tspan>
-<tspan x="10" y="1322"> 69.  2017-04-24 10:32:21 +0000     1036 bytes  src/hunspell/src/hunspell/filemgr.cxx</tspan>
-<tspan x="10" y="1338"> 70.  2017-04-24 10:32:21 +0000      571 bytes  src/hunspell/src/hunspell/filemgr.hxx</tspan>
-<tspan x="10" y="1354"> 71.  2017-04-24 10:32:21 +0000    28947 bytes  src/hunspell/src/hunspell/hashmgr.cxx</tspan>
-<tspan x="10" y="1370"> 72.  2017-04-24 10:32:21 +0000     2428 bytes  src/hunspell/src/hunspell/hashmgr.hxx</tspan>
-<tspan x="10" y="1386"> 73.  2017-04-24 10:32:21 +0000      924 bytes  src/hunspell/src/hunspell/htypes.hxx</tspan>
-<tspan x="10" y="1402"> 74.  2017-04-24 10:32:21 +0000    63493 bytes  src/hunspell/src/hunspell/hunspell.cxx</tspan>
-<tspan x="10" y="1418"> 75.  2017-04-24 10:32:21 +0000     4007 bytes  src/hunspell/src/hunspell/hunspell.dsp</tspan>
-<tspan x="10" y="1434"> 76.  2017-04-24 10:32:21 +0000     3462 bytes  src/hunspell/src/hunspell/hunspell.h</tspan>
-<tspan x="10" y="1450"> 77.  2017-04-24 10:32:21 +0000     5534 bytes  src/hunspell/src/hunspell/hunspell.hxx</tspan>
-<tspan x="10" y="1466"> 78.  2017-04-24 10:32:21 +0000      490 bytes  src/hunspell/src/hunspell/hunvisapi.h</tspan>
-<tspan x="10" y="1482"> 79.  2017-04-24 10:32:21 +0000      506 bytes  src/hunspell/src/hunspell/hunvisapi.h.in</tspan>
-<tspan x="10" y="1498"> 80.  2017-04-24 10:32:21 +0000     5537 bytes  src/hunspell/src/hunspell/hunzip.cxx</tspan>
-<tspan x="10" y="1514"> 81.  2017-04-24 10:32:21 +0000     1105 bytes  src/hunspell/src/hunspell/hunzip.hxx</tspan>
-<tspan x="10" y="1530"> 82.  2017-04-24 10:32:21 +0000      219 bytes  src/hunspell/src/hunspell/istrmgr.hxx</tspan>
-<tspan x="10" y="1546"> 83.  2017-04-24 10:32:21 +0000      528 bytes  src/hunspell/src/hunspell/langnum.hxx</tspan>
-<tspan x="10" y="1562"> 84.  2017-04-24 10:32:21 +0000     2119 bytes  src/hunspell/src/hunspell/license.hunspell</tspan>
-<tspan x="10" y="1578"> 85.  2017-04-24 10:32:21 +0000     2912 bytes  src/hunspell/src/hunspell/license.myspell</tspan>
-<tspan x="10" y="1594"> 86.  2017-04-24 10:32:21 +0000     2286 bytes  src/hunspell/src/hunspell/makefile.mk</tspan>
-<tspan x="10" y="1610"> 87.  2017-04-24 10:32:21 +0000     9067 bytes  src/hunspell/src/hunspell/phonet.cxx</tspan>
-<tspan x="10" y="1626"> 88.  2017-04-24 10:32:21 +0000     1616 bytes  src/hunspell/src/hunspell/phonet.hxx</tspan>
-<tspan x="10" y="1642"> 89.  2017-04-24 10:32:21 +0000     2030 bytes  src/hunspell/src/hunspell/replist.cxx</tspan>
-<tspan x="10" y="1658"> 90.  2017-04-24 10:32:21 +0000      505 bytes  src/hunspell/src/hunspell/replist.hxx</tspan>
-<tspan x="10" y="1674"> 91.  2017-04-24 10:32:21 +0000      840 bytes  src/hunspell/src/hunspell/strmgr.cxx</tspan>
-<tspan x="10" y="1690"> 92.  2017-04-24 10:32:21 +0000      553 bytes  src/hunspell/src/hunspell/strmgr.hxx</tspan>
-<tspan x="10" y="1706"> 93.  2017-04-24 10:32:21 +0000    62315 bytes  src/hunspell/src/hunspell/suggestmgr.cxx</tspan>
-<tspan x="10" y="1722"> 94.  2017-04-24 10:32:21 +0000     3878 bytes  src/hunspell/src/hunspell/suggestmgr.hxx</tspan>
-<tspan x="10" y="1738"> 95.  2017-04-24 10:32:21 +0000   550928 bytes  src/hunspell/src/hunspell/utf_info.cxx</tspan>
-<tspan x="10" y="1754"> 96.  2017-04-24 10:32:21 +0000      297 bytes  src/hunspell/src/hunspell/w_char.hxx</tspan>
-<tspan x="10" y="1770"> 97.  2017-04-24 10:32:21 +0000     5753 bytes  src/hunspell/src/win_api/config.h</tspan>
-<tspan x="10" y="1786"> 98.  2017-04-24 10:32:21 +0000     1083 bytes  src/license.nodehun</tspan>
-<tspan x="10" y="1802"> 99.  2017-04-24 10:32:21 +0000      551 bytes  src/nodehun.cpp</tspan>
-<tspan x="10" y="1818">100.  2017-04-24 10:32:21 +0000    34139 bytes  src/post0.12.0/nodehun.cpp</tspan>
-<tspan x="10" y="1834">101.  2017-04-24 10:32:21 +0000     6816 bytes  src/post0.12.0/nodehun.hpp</tspan>
-<tspan x="10" y="1850">102.  2017-04-24 10:32:21 +0000    32724 bytes  src/pre0.12.0/nodehun.cpp</tspan>
-<tspan x="10" y="1866">103.  2017-04-24 10:32:21 +0000     6649 bytes  src/pre0.12.0/nodehun.hpp</tspan>
+<tspan x="10" y="490"> 17.  2017-04-27 22:05:10 +0000   426069 bytes  build/Release/obj.target/nodehun.node</tspan>
+<tspan x="10" y="506"> 18.  2017-04-27 22:05:10 +0000    69128 bytes  build/Release/obj.target/nodehun/src/nodehun.o</tspan>
+<tspan x="10" y="522"> 19.  2017-04-27 22:05:10 +0000   452222 bytes  build/Release/obj.target/src/hunspell/hunspell.a</tspan>
+<tspan x="10" y="538"> 20.  2017-04-27 22:05:10 +0000      115 bytes  build/binding.Makefile</tspan>
+<tspan x="10" y="554"> 21.  2017-04-27 22:05:10 +0000     4887 bytes  build/config.gypi</tspan>
+<tspan x="10" y="570"> 22.  2017-04-27 22:05:10 +0000     3697 bytes  build/nodehun.target.mk</tspan>
+<tspan x="10" y="586"> 23.  2017-04-27 22:05:10 +0000      138 bytes  build/src/hunspell/binding.Makefile</tspan>
+<tspan x="10" y="602"> 24.  2017-04-27 22:05:10 +0000     4416 bytes  build/src/hunspell/hunspell.target.mk</tspan>
+<tspan x="10" y="618"> 25.  2017-04-27 22:05:10 +0000     1277 bytes  examples/a_init.js</tspan>
+<tspan x="10" y="634"> 26.  2017-04-27 22:05:10 +0000     1268 bytes  examples/b_addDictionary.js</tspan>
+<tspan x="10" y="650"> 27.  2017-04-27 22:05:10 +0000     1171 bytes  examples/c_addWord.js</tspan>
+<tspan x="10" y="666"> 28.  2017-04-27 22:05:10 +0000     1131 bytes  examples/d_removeWord.js</tspan>
+<tspan x="10" y="682"> 29.  2017-04-27 22:05:10 +0000    12599 bytes  examples/dictionaries/README_en_CA.txt</tspan>
+<tspan x="10" y="698"> 30.  2017-04-27 22:05:10 +0000    12599 bytes  examples/dictionaries/README_en_US.txt</tspan>
+<tspan x="10" y="714"> 31.  2017-04-27 22:05:10 +0000    64428 bytes  examples/dictionaries/en_CA.aff</tspan>
+<tspan x="10" y="730"> 32.  2017-04-27 22:05:10 +0000   642481 bytes  examples/dictionaries/en_CA.dic</tspan>
+<tspan x="10" y="746"> 33.  2017-04-27 22:05:10 +0000    64145 bytes  examples/dictionaries/en_US.aff</tspan>
+<tspan x="10" y="762"> 34.  2017-04-27 22:05:10 +0000   641025 bytes  examples/dictionaries/en_US.dic</tspan>
+<tspan x="10" y="778"> 35.  2017-04-27 22:05:10 +0000      586 bytes  examples/dictionaries/readme.md</tspan>
+<tspan x="10" y="794"> 36.  2017-04-27 22:05:10 +0000      667 bytes  examples/e_lotsOfSuggestions.js</tspan>
+<tspan x="10" y="810"> 37.  2017-04-27 22:05:10 +0000      427 bytes  examples/f_stem.js</tspan>
+<tspan x="10" y="826"> 38.  2017-04-27 22:05:10 +0000      539 bytes  examples/g_asyncInvoke.js</tspan>
+<tspan x="10" y="842"> 39.  2017-04-27 22:05:10 +0000      793 bytes  examples/h_multipleWords.js</tspan>
+<tspan x="10" y="858"> 40.  2017-04-27 22:05:10 +0000      670 bytes  examples/i_generate.js</tspan>
+<tspan x="10" y="874"> 41.  2017-04-27 22:05:10 +0000      437 bytes  examples/j_analyze.js</tspan>
+<tspan x="10" y="890"> 42.  2017-04-27 22:05:10 +0000      629 bytes  examples/k_correct.js</tspan>
+<tspan x="10" y="906"> 43.  2017-04-27 22:05:10 +0000     1079 bytes  license.md</tspan>
+<tspan x="10" y="922"> 44.  2017-04-27 22:05:10 +0000     2553 bytes  package.json</tspan>
+<tspan x="10" y="938"> 45.  2017-04-27 22:05:10 +0000    11647 bytes  readme.md</tspan>
+<tspan x="10" y="954"> 46.  2017-04-27 22:05:10 +0000      177 bytes  src/hunspell/AUTHORS</tspan>
+<tspan x="10" y="970"> 47.  2017-04-27 22:05:10 +0000     2741 bytes  src/hunspell/AUTHORS.myspell</tspan>
+<tspan x="10" y="986"> 48.  2017-04-27 22:05:10 +0000      634 bytes  src/hunspell/COPYING</tspan>
+<tspan x="10" y="1002"> 49.  2017-04-27 22:05:10 +0000    26532 bytes  src/hunspell/COPYING.LGPL</tspan>
+<tspan x="10" y="1018"> 50.  2017-04-27 22:05:10 +0000    25755 bytes  src/hunspell/COPYING.MPL</tspan>
+<tspan x="10" y="1034"> 51.  2017-04-27 22:05:10 +0000     4955 bytes  src/hunspell/README.hunspell</tspan>
+<tspan x="10" y="1050"> 52.  2017-04-27 22:05:10 +0000     2119 bytes  src/hunspell/README.myspell</tspan>
+<tspan x="10" y="1066"> 53.  2017-04-27 22:05:10 +0000     2166 bytes  src/hunspell/binding.gyp</tspan>
+<tspan x="10" y="1082"> 54.  2017-04-27 22:05:10 +0000      926 bytes  src/hunspell/readme.md</tspan>
+<tspan x="10" y="1098"> 55.  2017-04-27 22:05:10 +0000      798 bytes  src/hunspell/src/hunspell/Makefile.am</tspan>
+<tspan x="10" y="1114"> 56.  2017-04-27 22:05:10 +0000    22268 bytes  src/hunspell/src/hunspell/Makefile.in</tspan>
+<tspan x="10" y="1130"> 57.  2017-04-27 22:05:10 +0000      929 bytes  src/hunspell/src/hunspell/README</tspan>
+<tspan x="10" y="1146"> 58.  2017-04-27 22:05:10 +0000    36844 bytes  src/hunspell/src/hunspell/affentry.cxx</tspan>
+<tspan x="10" y="1162"> 59.  2017-04-27 22:05:10 +0000     4495 bytes  src/hunspell/src/hunspell/affentry.hxx</tspan>
+<tspan x="10" y="1178"> 60.  2017-04-27 22:05:10 +0000   154531 bytes  src/hunspell/src/hunspell/affixmgr.cxx</tspan>
+<tspan x="10" y="1194"> 61.  2017-04-27 22:05:10 +0000    10508 bytes  src/hunspell/src/hunspell/affixmgr.hxx</tspan>
+<tspan x="10" y="1210"> 62.  2017-04-27 22:05:10 +0000     2093 bytes  src/hunspell/src/hunspell/atypes.hxx</tspan>
+<tspan x="10" y="1226"> 63.  2017-04-27 22:05:10 +0000      575 bytes  src/hunspell/src/hunspell/baseaffix.hxx</tspan>
+<tspan x="10" y="1242"> 64.  2017-04-27 22:05:10 +0000    12819 bytes  src/hunspell/src/hunspell/config.h</tspan>
+<tspan x="10" y="1258"> 65.  2017-04-27 22:05:10 +0000   134038 bytes  src/hunspell/src/hunspell/csutil.cxx</tspan>
+<tspan x="10" y="1274"> 66.  2017-04-27 22:05:10 +0000     7438 bytes  src/hunspell/src/hunspell/csutil.hxx</tspan>
+<tspan x="10" y="1290"> 67.  2017-04-27 22:05:10 +0000     4446 bytes  src/hunspell/src/hunspell/dictmgr.cxx</tspan>
+<tspan x="10" y="1306"> 68.  2017-04-27 22:05:10 +0000      633 bytes  src/hunspell/src/hunspell/dictmgr.hxx</tspan>
+<tspan x="10" y="1322"> 69.  2017-04-27 22:05:10 +0000     1036 bytes  src/hunspell/src/hunspell/filemgr.cxx</tspan>
+<tspan x="10" y="1338"> 70.  2017-04-27 22:05:10 +0000      571 bytes  src/hunspell/src/hunspell/filemgr.hxx</tspan>
+<tspan x="10" y="1354"> 71.  2017-04-27 22:05:10 +0000    28947 bytes  src/hunspell/src/hunspell/hashmgr.cxx</tspan>
+<tspan x="10" y="1370"> 72.  2017-04-27 22:05:10 +0000     2428 bytes  src/hunspell/src/hunspell/hashmgr.hxx</tspan>
+<tspan x="10" y="1386"> 73.  2017-04-27 22:05:10 +0000      924 bytes  src/hunspell/src/hunspell/htypes.hxx</tspan>
+<tspan x="10" y="1402"> 74.  2017-04-27 22:05:10 +0000    63493 bytes  src/hunspell/src/hunspell/hunspell.cxx</tspan>
+<tspan x="10" y="1418"> 75.  2017-04-27 22:05:10 +0000     4007 bytes  src/hunspell/src/hunspell/hunspell.dsp</tspan>
+<tspan x="10" y="1434"> 76.  2017-04-27 22:05:10 +0000     3462 bytes  src/hunspell/src/hunspell/hunspell.h</tspan>
+<tspan x="10" y="1450"> 77.  2017-04-27 22:05:10 +0000     5534 bytes  src/hunspell/src/hunspell/hunspell.hxx</tspan>
+<tspan x="10" y="1466"> 78.  2017-04-27 22:05:10 +0000      490 bytes  src/hunspell/src/hunspell/hunvisapi.h</tspan>
+<tspan x="10" y="1482"> 79.  2017-04-27 22:05:10 +0000      506 bytes  src/hunspell/src/hunspell/hunvisapi.h.in</tspan>
+<tspan x="10" y="1498"> 80.  2017-04-27 22:05:10 +0000     5537 bytes  src/hunspell/src/hunspell/hunzip.cxx</tspan>
+<tspan x="10" y="1514"> 81.  2017-04-27 22:05:10 +0000     1105 bytes  src/hunspell/src/hunspell/hunzip.hxx</tspan>
+<tspan x="10" y="1530"> 82.  2017-04-27 22:05:10 +0000      219 bytes  src/hunspell/src/hunspell/istrmgr.hxx</tspan>
+<tspan x="10" y="1546"> 83.  2017-04-27 22:05:10 +0000      528 bytes  src/hunspell/src/hunspell/langnum.hxx</tspan>
+<tspan x="10" y="1562"> 84.  2017-04-27 22:05:10 +0000     2119 bytes  src/hunspell/src/hunspell/license.hunspell</tspan>
+<tspan x="10" y="1578"> 85.  2017-04-27 22:05:10 +0000     2912 bytes  src/hunspell/src/hunspell/license.myspell</tspan>
+<tspan x="10" y="1594"> 86.  2017-04-27 22:05:10 +0000     2286 bytes  src/hunspell/src/hunspell/makefile.mk</tspan>
+<tspan x="10" y="1610"> 87.  2017-04-27 22:05:10 +0000     9067 bytes  src/hunspell/src/hunspell/phonet.cxx</tspan>
+<tspan x="10" y="1626"> 88.  2017-04-27 22:05:10 +0000     1616 bytes  src/hunspell/src/hunspell/phonet.hxx</tspan>
+<tspan x="10" y="1642"> 89.  2017-04-27 22:05:10 +0000     2030 bytes  src/hunspell/src/hunspell/replist.cxx</tspan>
+<tspan x="10" y="1658"> 90.  2017-04-27 22:05:10 +0000      505 bytes  src/hunspell/src/hunspell/replist.hxx</tspan>
+<tspan x="10" y="1674"> 91.  2017-04-27 22:05:10 +0000      840 bytes  src/hunspell/src/hunspell/strmgr.cxx</tspan>
+<tspan x="10" y="1690"> 92.  2017-04-27 22:05:10 +0000      553 bytes  src/hunspell/src/hunspell/strmgr.hxx</tspan>
+<tspan x="10" y="1706"> 93.  2017-04-27 22:05:10 +0000    62315 bytes  src/hunspell/src/hunspell/suggestmgr.cxx</tspan>
+<tspan x="10" y="1722"> 94.  2017-04-27 22:05:10 +0000     3878 bytes  src/hunspell/src/hunspell/suggestmgr.hxx</tspan>
+<tspan x="10" y="1738"> 95.  2017-04-27 22:05:10 +0000   550928 bytes  src/hunspell/src/hunspell/utf_info.cxx</tspan>
+<tspan x="10" y="1754"> 96.  2017-04-27 22:05:10 +0000      297 bytes  src/hunspell/src/hunspell/w_char.hxx</tspan>
+<tspan x="10" y="1770"> 97.  2017-04-27 22:05:10 +0000     5753 bytes  src/hunspell/src/win_api/config.h</tspan>
+<tspan x="10" y="1786"> 98.  2017-04-27 22:05:10 +0000     1083 bytes  src/license.nodehun</tspan>
+<tspan x="10" y="1802"> 99.  2017-04-27 22:05:10 +0000      551 bytes  src/nodehun.cpp</tspan>
+<tspan x="10" y="1818">100.  2017-04-27 22:05:10 +0000    34139 bytes  src/post0.12.0/nodehun.cpp</tspan>
+<tspan x="10" y="1834">101.  2017-04-27 22:05:10 +0000     6816 bytes  src/post0.12.0/nodehun.hpp</tspan>
+<tspan x="10" y="1850">102.  2017-04-27 22:05:10 +0000    32724 bytes  src/pre0.12.0/nodehun.cpp</tspan>
+<tspan x="10" y="1866">103.  2017-04-27 22:05:10 +0000     6649 bytes  src/pre0.12.0/nodehun.hpp</tspan>
 </text>
 </svg>
